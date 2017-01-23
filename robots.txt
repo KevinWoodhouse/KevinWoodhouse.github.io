@@ -1,0 +1,10 @@
+User-agent: Twitterbot
+Disallow: /sketch-nudged/*
+Allow: /sketch-nudged/img/social/*
+
+User-agent: *
+Disallow: /sketch-nudged/img/
+Disallow: /sketch-nudged/fonts/
+Disallow: /sketch-nudged/presskit/
+Disallow: /sketch-nudged/js/
+Allow: /sketch-nudged/img/social/*
