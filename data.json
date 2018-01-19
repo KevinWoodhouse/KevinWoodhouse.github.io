@@ -14,5 +14,20 @@
         "image": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged-hero-alt.png",
         "overview": "A Sketch plugin to easily edit your nudge distance settings.",
         "tags":"sketch, plugin, nudge"
+    },{
+        "type": "Sketch-plugin",
+        "name": "coming-soon",
+        "visable": false,
+        "url": "https://github.com/KevinWoodhouse/sketch-nudged",
+        "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
+        "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Sketch/manifest.json",
+        "identifer":"com.kevinwoodhouse.sketch-nudged",
+        "author": {
+          "name": "Kevin Woodhouse",
+          "url": "http://www.kevinwoodhouse.com/?ref=github.io"
+        },
+        "image": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged-hero-alt.png",
+        "overview": "A Sketch plugin coming-soon.",
+        "tags":"sketch, plugin"
     }]
 }
