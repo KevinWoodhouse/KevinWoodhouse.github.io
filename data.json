@@ -21,13 +21,28 @@
         "url": "https://github.com/KevinWoodhouse/sketch-nudged",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
         "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Sketch/manifest.json",
-        "identifer":"com.kevinwoodhouse.sketch-nudged",
+        "identifer":"com.kevinwoodhouse.2",
         "author": {
           "name": "Kevin Woodhouse",
           "url": "http://www.kevinwoodhouse.com/?ref=github.io"
         },
         "image": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged-hero-alt.png",
         "overview": "A Sketch plugin coming-soon.",
+        "tags":"sketch, plugin"
+    },{
+        "type": "Sketch-plugin",
+        "name": "coming-soon also",
+        "visable": true,
+        "url": "https://github.com/KevinWoodhouse/sketch-nudged",
+        "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
+        "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Sketch/manifest.json",
+        "identifer":"com.kevinwoodhouse.3",
+        "author": {
+          "name": "Kevin Woodhouse",
+          "url": "http://www.kevinwoodhouse.com/?ref=github.io"
+        },
+        "image": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged-hero-alt.png",
+        "overview": "A Sketch plugin coming-soon also.",
         "tags":"sketch, plugin"
     }]
 }
