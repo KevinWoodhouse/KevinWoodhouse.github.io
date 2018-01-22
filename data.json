@@ -19,7 +19,7 @@
     },{
         "type": "Sketch-plugin",
         "name": "coming-soon",
-        "visable": false,
+        "visable": true,
         "url": "https://github.com/KevinWoodhouse/coming-soon",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
         "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Sketch/manifest.json",
