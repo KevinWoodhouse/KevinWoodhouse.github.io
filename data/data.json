@@ -23,7 +23,7 @@
         "type": "Sketch-plugin",
         "name": "Chroma",
         "visable": true,
-        "launched": false,
+        "launched": true,
         "url": "https://kevinwoodhouse.github.io/sketch-chroma/",
         "githubUrl": "https://github.com/KevinWoodhouse/chroma",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-chroma/master/appcast.xml",
