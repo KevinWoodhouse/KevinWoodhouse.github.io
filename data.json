@@ -97,7 +97,7 @@
         "overview": "A Sketch plugin coming-soon also.",
         "tags":"sketch, plugin",
         "price" : "£0+",
-        "color": "#70C800",
+        "color": "#C80069",
         "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Resources/nudged-icon-sr.png"
     }]
 }
