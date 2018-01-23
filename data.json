@@ -3,6 +3,7 @@
         "type": "Sketch-plugin",
         "name": "Nudged",
         "visable": true,
+        "launched": true,
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
         "githubUrl": "https://github.com/KevinWoodhouse/sketch-nudged",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
@@ -22,6 +23,7 @@
         "type": "Sketch-plugin",
         "name": "coming",
         "visable": true,
+        "launched": false,
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
         "githubUrl": "https://github.com/KevinWoodhouse/coming-soon",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
@@ -41,6 +43,7 @@
         "type": "Sketch-plugin",
         "name": "coming3",
         "visable": true,
+        "launched": false,
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
         "githubUrl": "https://github.com/KevinWoodhouse/coming-soon-also",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
@@ -55,6 +58,26 @@
         "tags":"sketch, plugin",
         "price" : "£0+",
         "color": "#815CEB",
+        "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Resources/nudged-icon-sr.png"
+    },{
+        "type": "Sketch-plugin",
+        "name": "coming4",
+        "visable": true,
+        "launched": false,
+        "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
+        "githubUrl": "https://github.com/KevinWoodhouse/coming-soon-also",
+        "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
+        "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Sketch/manifest.json",
+        "identifer":"com.kevinwoodhouse.4",
+        "author": {
+          "name": "Kevin Woodhouse",
+          "url": "http://www.kevinwoodhouse.com/?ref=github.io"
+        },
+        "image": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged-hero-alt.png",
+        "overview": "A Sketch plugin coming-soon also.",
+        "tags":"sketch, plugin",
+        "price" : "£0+",
+        "color": "#70C800",
         "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Resources/nudged-icon-sr.png"
     }]
 }
