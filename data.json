@@ -21,24 +21,24 @@
         "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Resources/nudged-icon-sr.png"
     },{
         "type": "Sketch-plugin",
-        "name": "coming",
+        "name": "Chroma",
         "visable": true,
         "launched": false,
-        "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
-        "githubUrl": "https://github.com/KevinWoodhouse/coming-soon",
-        "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
-        "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Sketch/manifest.json",
-        "identifer":"com.kevinwoodhouse.2",
+        "url": "https://kevinwoodhouse.github.io/sketch-chroma/",
+        "githubUrl": "https://github.com/KevinWoodhouse/chroma",
+        "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-chroma/master/appcast.xml",
+        "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-chroma/master/sketch-chroma.sketchplugin/Contents/Sketch/manifest.json",
+        "identifer":"com.kevinwoodhouse.chroma",
         "author": {
           "name": "Kevin Woodhouse",
           "url": "http://www.kevinwoodhouse.com/?ref=github.io"
         },
-        "image": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged-hero-alt.png",
+        "image": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-chroma/master/sketch-chroma-hero-alt.png",
         "overview": "A Sketch plugin coming-soon.",
         "tags":"sketch, plugin",
         "price" : "£0+",
         "color": "#383838",
-        "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Resources/nudged-icon-sr.png"
+        "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-chroma/master/sketch-chroma.sketchplugin/Contents/Resources/nudged-icon-sr.png"
     },{
         "type": "Sketch-plugin",
         "name": "coming",
