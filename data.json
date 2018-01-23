@@ -41,7 +41,7 @@
         "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Resources/nudged-icon-sr.png"
     },{
         "type": "Sketch-plugin",
-        "name": "coming3",
+        "name": "coming",
         "visable": true,
         "launched": false,
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
@@ -61,7 +61,7 @@
         "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Resources/nudged-icon-sr.png"
     },{
         "type": "Sketch-plugin",
-        "name": "coming4",
+        "name": "coming",
         "visable": true,
         "launched": false,
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
