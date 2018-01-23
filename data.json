@@ -20,7 +20,7 @@
         "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Resources/nudged-icon-sr.png"
     },{
         "type": "Sketch-plugin",
-        "name": "coming-soon",
+        "name": "coming",
         "visable": true,
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
         "githubUrl": "https://github.com/KevinWoodhouse/coming-soon",
@@ -39,7 +39,7 @@
         "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Resources/nudged-icon-sr.png"
     },{
         "type": "Sketch-plugin",
-        "name": "coming-soon also",
+        "name": "coming3",
         "visable": true,
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
         "githubUrl": "https://github.com/KevinWoodhouse/coming-soon-also",
