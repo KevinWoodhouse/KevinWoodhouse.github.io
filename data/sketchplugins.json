@@ -2,13 +2,18 @@
     "plugins": [{
         "type": "Sketch-plugin",
         "name": "Nudged",
+        "version": "2.0.1",
         "visable": true,
         "launched": true,
+        "sale": true,
+        "sale-info": "25% off - Limited time! - Use Code:",
+        "sale-code": "TESTPROMO25",
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
         "githubUrl": "https://github.com/KevinWoodhouse/sketch-nudged",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
         "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Sketch/manifest.json",
         "identifer":"com.kevinwoodhouse.sketch-nudged",
+        "specs": "Sketch 41+, macOS Sierra (10.12) Required",
         "author": {
           "name": "Kevin Woodhouse",
           "url": "http://www.kevinwoodhouse.com/?ref=github.io"
@@ -22,33 +27,43 @@
     },{
         "type": "Sketch-plugin",
         "name": "Chroma",
+        "version": "1.0",
         "visable": true,
         "launched": true,
+        "sale": false,
+        "sale-info": null,
+        "sale-code": null,
         "url": "https://kevinwoodhouse.github.io/sketch-chroma/",
         "githubUrl": "https://github.com/KevinWoodhouse/chroma",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-chroma/master/appcast.xml",
         "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-chroma/master/sketch-chroma.sketchplugin/Contents/Sketch/manifest.json",
         "identifer":"com.kevinwoodhouse.chroma",
+        "specs": "Sketch 41+, macOS Sierra (10.12) Required",
         "author": {
           "name": "Kevin Woodhouse",
           "url": "http://www.kevinwoodhouse.com/?ref=github.io"
         },
-        "image": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-chroma/master/sketch-chroma-hero-alt.png",
+        "image": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged-hero-alt.png",
         "overview": "A Sketch plugin coming-soon.",
         "tags":"sketch, plugin",
-        "price" : "£2+",
+        "price" : "£4+",
         "color": "#383838",
         "icon": "https://raw.githubusercontent.com/KevinWoodhouse/sketch-chroma/master/sketch-chroma.sketchplugin/Contents/Resources/nudged-icon-sr.png"
     },{
         "type": "Sketch-plugin",
         "name": "coming",
+        "version": "1.0",
         "visable": true,
         "launched": false,
+        "sale": false,
+        "sale-info": null,
+        "sale-code": null,
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
         "githubUrl": "https://github.com/KevinWoodhouse/coming-soon-also",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
         "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Sketch/manifest.json",
         "identifer":"com.kevinwoodhouse.3",
+        "specs": "Sketch 41+, macOS Sierra (10.12) Required",
         "author": {
           "name": "Kevin Woodhouse",
           "url": "http://www.kevinwoodhouse.com/?ref=github.io"
@@ -62,13 +77,18 @@
     },{
         "type": "Sketch-plugin",
         "name": "coming",
+        "version": "1.0",
         "visable": true,
         "launched": false,
+        "sale": false,
+        "sale-info": null,
+        "sale-code": null,
         "url": "https://kevinwoodhouse.github.io/sketch-nudged/",
         "githubUrl": "https://github.com/KevinWoodhouse/coming-soon-also",
         "appcast": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/appcast.xml",
         "manifest": "https://raw.githubusercontent.com/kevinwoodhouse/sketch-nudged/master/sketch-nudged.sketchplugin/Contents/Sketch/manifest.json",
         "identifer":"com.kevinwoodhouse.4",
+        "specs": "Sketch 41+, macOS Sierra (10.12) Required",
         "author": {
           "name": "Kevin Woodhouse",
           "url": "http://www.kevinwoodhouse.com/?ref=github.io"
